@@ -2,8 +2,6 @@
 
 **Live Demo:** [https://mritunjay-thakur.vercel.app](https://mritunjay-thakur.vercel.app)
 
-**Your AI Assistant:** **Nini** – Your personal, interactive AI guide helping you explore my portfolio, projects, and skills! 🤖
-
 ---
 
 ## 🎯 The Vision Behind My Portfolio
@@ -16,11 +14,9 @@ Built with passion and precision, this is my **modern Next.js project**, designe
 
 ## 🌟 What Makes This Portfolio Special?
 
-- 💻 **Interactive AI Assistant** – Ask Nini about projects, skills, or anything related to my work.
 - ✉️ **Direct Contact Form** – Send me messages securely via Gmail API integration.
 - ⚡ **Optimized Performance** – Smooth animations, fast loading, and minimal latency.
 - 📱 **Responsive & Mobile-First Design** – Looks perfect on phones, tablets, and desktops.
-- 🤖 **AI-Powered Insights** – Combines OpenAI, OpenRouter, and DeepSeek AI for intelligent responses.
 - 🌐 **SEO-Friendly Structure** – Ensures discoverability online and professional presentation.
 
 ---
@@ -37,7 +33,6 @@ Built with passion and precision, this is my **modern Next.js project**, designe
 
 - **Gmail API** – Send messages directly from the contact form.
 - **Environment Variables** – Keeps credentials safe with `.env.local`.
-- **AI Integration** – Connects with OpenAI, OpenRouter, and DeepSeek AI for Nini, the personal AI assistant.
 
 ### 🚀 Deployment
 
@@ -59,7 +54,6 @@ Built with passion and precision, this is my **modern Next.js project**, designe
 
 This portfolio is a living project! Upcoming features include:
 
-- 🧑‍💻 **Advanced AI Capabilities** – Nini will provide code snippets, project walkthroughs, and personalized recommendations.
 - 📊 **Dynamic Project Analytics** – Track project performance, view case studies, and interactive demos.
 - 💳 **Integrated Services** – Direct project inquiries, consultancy booking, and AI-powered recommendations.
 - 📰 **Blog/Insights Section** – Share tech tips, development stories, and tutorials.
@@ -89,11 +83,8 @@ This portfolio is powered by:
 
 - Endless **coding sessions and experimentation** 💻
 - **Open-source libraries and tools** that make modern web development possible
-- AI inspiration from **OpenAI, DeepSeek AI, and OpenRouter** 🤖
 - All my mentors, peers, and online communities that supported my journey 🚀
 
 ---
 
 **Mritunjay Thakur Portfolio isn’t just a website – it’s a professional, interactive, and AI-powered showcase of skills, projects, and innovation.**
-
-P.S. Don’t forget to ask **Nini** anything – she’s your friendly AI guide! ✨
