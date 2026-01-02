@@ -18,7 +18,7 @@
     "gsap": "^3.13.0",
     "lucide-react": "^0.542.0",
     "motion": "^12.23.12",
-    "next": "15.5.2",
+    "next": "15.5.7",
     "nodemailer": "^7.0.6",
     "ogl": "^1.0.11",
     "openai": "^5.19.1",
@@ -39,8 +39,9 @@
     "@types/react-dom": "^19",
     "@types/three": "^0.180.0",
     "eslint": "^9",
-    "eslint-config-next": "15.5.2",
+    "eslint-config-next": "15.5.7",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "packageManager": "npm@10.8.2+"
 }
